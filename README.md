@@ -55,3 +55,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 To run the analysis, simply execute the `main.py` script from your terminal:
 ```bash
 python main.py
+```
+## ⚠️ Disclaimer
+
+This script is intended for educational and informational purposes only.
+The trading signals generated are based on a simplistic technical analysis strategy and should not be considered financial advice.
+Trading involves risk, and you should do your own research or consult a licensed financial advisor before making any investment decisions.
