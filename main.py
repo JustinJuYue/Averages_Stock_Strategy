@@ -30,7 +30,7 @@ for x in range(len(data)):
         trigger = 1
     elif data[f'SMA_{ma_1}'].iloc[x] < data[f'SMA_{ma_2}'].iloc[x] and trigger != -1:
         buy_signals.append(float('nan'))
-        sell_signals.append(data['Adj Close'][x])
+        sell_signals.append(data['Adj Close'].iloc[x])
         trigger = -1
     else:
         buy_signals.append(float('nan'))
