@@ -6,7 +6,7 @@ This project is a Python script that analyzes historical stock data to generate 
 
 The script will generate a plot visualizing the stock's closing price, the two moving averages, and the generated buy (▲) and sell (▼) signals.
 
-![Sample Plot](Assets/Plot Example.png)
+![Sample Plot](Simple_Moving_Average_Strategies/Assets/Plot_Example.png)
 
 ## Features
 
